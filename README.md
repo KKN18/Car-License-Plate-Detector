@@ -11,6 +11,7 @@ AI model detecting and recognizing Car License Plate
 ## Model
 ### Predict each 4 corner of License Plate
 
+
 ```python
 model = models.resnet101(pretrained=True)
 model = nn.Sequential(
