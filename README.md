@@ -24,6 +24,7 @@ model = nn.Sequential(
 )
 ```
 
+
 ### Resnet-101 
 
 <img width="500" src="https://user-images.githubusercontent.com/63842546/213862967-dc11e2cc-8aad-4d3d-98e3-9bea79a7cbb3.png"/>
